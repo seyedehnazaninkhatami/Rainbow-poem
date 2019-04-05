@@ -1,4 +1,4 @@
-Rainbow is
+Rainbow and the unicorn and the pony
 green
 yellow 
 blue
@@ -6,3 +6,4 @@ red
 indigo
 end of the poem.
 And the unicorn.
+pony
