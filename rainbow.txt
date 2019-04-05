@@ -3,5 +3,6 @@ green
 yellow 
 blue
 red
+indigo
 end of the poem.
 And the unicorn.
